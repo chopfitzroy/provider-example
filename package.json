@@ -1,5 +1,5 @@
 {
-  "name": "module-example",
+  "name": "provider-example",
   "version": "1.0.0",
   "description": "Demo",
   "main": "index.js",
