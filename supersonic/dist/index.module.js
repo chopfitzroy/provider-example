@@ -1,2 +1,2 @@
-import t from"react";var e=t.createContext(),r=function(r){var i=r.children,n=t.useState({setting:1}),o=n[0],s=n[1];return console.log("Settings Provider Initiated"),h(e.Provider,{value:{settings:o,setSettings:s}},i)};export{r as SettingsProvider,e as SettingsContext};
+import e from"react";var t=e.createContext(),r=function(r){var n=r.children,i=e.useState({setting:1}),o=i[0],a=i[1];return console.log("Settings Provider Initiated"),e.createElement(t.Provider,{value:{settings:o,setSettings:a}},n)};export{r as SettingsProvider,t as SettingsContext};
 //# sourceMappingURL=index.module.js.map
